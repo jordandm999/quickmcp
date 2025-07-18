@@ -1,0 +1,1 @@
+from {{cookiecutter.project_name}}.resources.example_resource import example_resource

@@ -1,0 +1,1 @@
+from {{cookiecutter.project_name}}.tools.example_tool import example_tool
